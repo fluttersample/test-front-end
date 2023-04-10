@@ -20,7 +20,7 @@ This sample follows GetX + Clean Architecture TDD (Test-Driven Development).
 ![Logo](https://raw.githubusercontent.com/alymurtazamemon/flutter_learning_clean_architecture_with_test_driven_development/main/readme_images/CleanArchitecture.jpg)
 
 
-## Description (What It does)
+## 📝 Description (What It does)
 This app fetches the data from the [numbersapi.com](http://numbersapi.com/#42) website
 
 Working is very simple, the user will just type the number on the search field and press the button on the main screen, which will fetch the trivia for that particular number user typed. And when they press the button named RANDOM, that will fetch any random trivia and show it on the text widget of the main screen
@@ -49,16 +49,18 @@ Working is very simple, the user will just type the number on the search field a
 ```
 
 
+## Running the Unit Tests
+Unit testing for Flutter applications is fully explained in the [Flutter documentation](https://docs.flutter.dev/cookbook/testing/unit/introduction). In this repository, From Android Studio
+- Right Clicking on the Class and select "Run"
 ## 💥 Features
 
 - Light/dark mode toggle 
 - Cross platform
 
 
-## Running the Unit Tests
-Unit testing for Flutter applications is fully explained in the [Flutter documentation](https://docs.flutter.dev/cookbook/testing/unit/introduction). In this repository, From Android Studio
-- Right Clicking on the Class and select "Run"
-## Support
+## 👀 Git
+- Please clone this repository in a new github repository in private mode and share with ID: fluttersample in private mode on github.com, make sure you do not erase my commits and then create a pull request (code review)
+## 💎 Support
 if you have any questions 
 
 send me message to Microsft Teams devmohamad3@outlook.com .
