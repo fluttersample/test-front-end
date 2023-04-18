@@ -12,7 +12,7 @@ Please read all the descriptions carefully and finally make a sample
 - [Mock Web Server](https://pub.dev/packages/mock_web_server/versions/5.0.0-nullsafety.1)
 - [Json Serializable](https://pub.dev/packages/json_serializable)
 - [Dio](https://pub.dev/packages/dio)
-
+- [Dartz](https://pub.dev/packages/dartz)
 ## 🛠 App Architecture
 
 This sample follows GetX + Clean Architecture TDD (Test-Driven Development).
